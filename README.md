@@ -129,3 +129,17 @@ before initializing SQLAlchemy.
 Result
 
 The application was successfully containerized, connected to MySQL and Redis, and deployed with two Flask application containers. All required endpoints were tested successfully and returned the expected results.
+
+# Flask Docker MySQL Redis Project
+
+## Architecture
+
+![Architecture](images/architecture.png)
+
+## Running Containers
+
+![Docker Containers](images/docker-ps.png)
+
+## Endpoints
+
+![Endpoints](images/endpoints.png)
